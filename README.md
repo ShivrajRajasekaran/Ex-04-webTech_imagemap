@@ -11,10 +11,9 @@ To develop a website to display details about the places around my house.
 
 
 # Code:
-```
-map.html
 
-
+# map.html
+``````
 <html>
 <head>
 <title>My City</title>
@@ -37,9 +36,9 @@ map.html
 </center>
 </body>
 </html>
-
-mall.html
-
+``````
+### mall.html
+``````
 <!DOCTYPE html>
 <html>
 
@@ -57,9 +56,9 @@ mall.html
 </body>
 
 </html>
-
-hospital.html
-
+``````
+### hospital.html
+``````
 <!DOCTYPE html>
 <html>
 
@@ -75,9 +74,9 @@ hospital.html
     </ul>
 </body>
 </html>
-
-college.html
-
+``````
+### college.html
+``````
 <!DOCTYPE html>
 <html>
 
@@ -95,9 +94,9 @@ college.html
 </body>
 
 </html>
-
-busstand.html
-
+``````
+## busstand.html
+``````
 <!DOCTYPE html>
 <html>
 
@@ -113,10 +112,9 @@ busstand.html
     </ul>
 </body>
 </html>
-
-home.html
-
-
+``````
+### home.html
+``````
 <!DOCTYPE html>
 <html>
 
@@ -132,16 +130,10 @@ home.html
         <li style="margin-bottom: 10px; font-size: 25px;">&#9733; In my home the five people are my father,mother,two sister and me. </li>
     </ul>
 </body>
-
 </html>
-
-
-```
-
+``````
 # Output:
 ![Alt text](5.png)
-
-
 ![Alt text](1.png)
 ![Alt text](2.png)
 
