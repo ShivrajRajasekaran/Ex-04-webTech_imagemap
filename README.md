@@ -157,8 +157,6 @@ Push it to 'README.md' and push it to the repository.
 ![Alt text](3.png)
 ![Alt text](4.png)
 
-
-
-
 # Result:
 
+The output was verified successfully
