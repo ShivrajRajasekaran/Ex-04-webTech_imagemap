@@ -55,7 +55,7 @@ Push it to 'README.md' and push it to the repository.
 </html>
 ``````
 ### mall.html
-``````
+
 <!DOCTYPE html>
 <html>
 
@@ -73,7 +73,7 @@ Push it to 'README.md' and push it to the repository.
 </body>
 
 </html>
-``````
+
 ### hospital.html
 ``````
 <!DOCTYPE html>
