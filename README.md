@@ -150,13 +150,12 @@ Push it to 'README.md' and push it to the repository.
 </html>
 ``````
 # Output:
-![Alt text](5.png)
-![Alt text](1.png)
-![Alt text](2.png)
-
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](6.png-1.png)
+![Alt text](map.png)
+![Alt text](house.png)
+![Alt text](bus.png.png)
+![Alt text](hospital.png)
+![Alt text](clg.png)
+![Alt text](mall.png)
 # Result:
 
 The output was verified successfully
