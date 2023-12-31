@@ -1,35 +1,35 @@
-# Places Around Me
-# Aim:
+# Ex 06: PLACES AROUND ME USING IMAGEMAP
+# AIM:
 To develop a website to display details about the places around my house.
 
-# Design Steps:
-## Step 1:
+# DESIGN STEPS:
+## STEP 1:
 Create a folder 'static' under the project folder 'myproj'
 
-## Step 2:
+## STEP 2:
 In 'static',create another folder 'html',under which the file 'index.html' should be created.
 
-## Step 3:
+## STEP 3:
 Go to google maps and take a screenshot of your home on it along with some places around it.
 
-## step 4:
+## STEP 4:
 Go to image-maps.com and make 5 locations on it using the shapes used in maps.
 
-## step 5:
+## STEP 5:
 Copy the html code for the map and add it to 'index.html'
 
 ## step 6:
 Create the html documents to be displayed when clicked on the location in the image map.
 
-## step 7:
+## STEP 7:
 Take screenshots of the output.
 
-## step 8:
+## STEP 8:
 Push it to 'README.md' and push it to the repository.
 
-# Code:
+# CODE:
 
-# map.html
+# MAP.html
 ``````
 <html>
 <head>
@@ -54,7 +54,7 @@ Push it to 'README.md' and push it to the repository.
 </body>
 </html>
 ``````
-### mall.html
+### MALL.html
 ``````
 <!DOCTYPE html>
 <html>
@@ -92,7 +92,7 @@ Push it to 'README.md' and push it to the repository.
 </body>
 </html>
 ``````
-### college.html
+### COLLEGE.html
 ``````
 <!DOCTYPE html>
 <html>
@@ -112,7 +112,7 @@ Push it to 'README.md' and push it to the repository.
 
 </html>
 ``````
-## busstand.html
+## BUSSTAND.html
 ``````
 <!DOCTYPE html>
 <html>
@@ -130,7 +130,7 @@ Push it to 'README.md' and push it to the repository.
 </body>
 </html>
 ``````
-### home.html
+### HOME.html
 ``````
 <!DOCTYPE html>
 <html>
@@ -149,13 +149,13 @@ Push it to 'README.md' and push it to the repository.
 </body>
 </html>
 ``````
-# Output:
+# OUTPUT:
 ![Alt text](map.png)
 ![Alt text](house.png)
 ![Alt text](bus.png.png)
 ![Alt text](hospital.png)
 ![Alt text](clg.png)
 ![Alt text](mall.png)
-# Result:
+# RESULT:
 
 The output was verified successfully
